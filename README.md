@@ -19,13 +19,13 @@
 1. 打開你的 terminal，Clone 此專案至本機電腦
 
 ```
-git clone https://github.com/pierceshih15/movieList-express-v1.git
+git clone https://github.com/LongXiangL/movie_list.git
 ```
 
 2. 開啟終端機(Terminal)，進入存放此專案的資料夾
 
 ```
-cd movieList-express-v1
+cd movie_list
 ```
 
 3. 安裝 npm 套件
