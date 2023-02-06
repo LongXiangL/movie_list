@@ -5,6 +5,9 @@
 ## 專案畫面
 
 
+![image](https://github.com/LongXiangL/movie_list/blob/main/public/%E9%A6%96%E9%A0%81movielist.png)
+
+![image](https://github.com/LongXiangL/movie_list/blob/main/public/movielists%E6%90%9C%E5%B0%8B.png)
 
 ## Features - 產品功能
 
